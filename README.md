@@ -1,4 +1,4 @@
 # Hello-World
 First GetHub Repo
 
-This is my firsst go with GetHub Repo. 
+This is my first go with GetHub Repo. 
